@@ -193,7 +193,12 @@ Se recomienda usar un archivo `.env` con:
 
 ------------------------------------------------------------------------
 
-# 👩‍💻 Autora
+# 👩‍💻 Autores
 
 Proyecto desarrollado como parte de un desafío técnico enfocado en
-automatización y análisis de datos para pequeñas empresas.
+automatización y análisis de datos para pequeñas empresas por:
+Davalos Carla
+Estrada Leomar 
+Paye Cahui Oscar Fernando 
+Tantarico Minchola Galia Lizbeth 
+
