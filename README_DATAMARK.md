@@ -133,9 +133,9 @@ Este modelo permite:
 -   Git\
 -   GitHub
 
-### Automatización
+### Automatización de flujo de datos
 
--   GitHub Actions (CI/CD)
+-   Archivo orchetrator.py donde defines un flujo de trabajo compuesto por tareas encadenadas.
 
 ------------------------------------------------------------------------
 
@@ -200,7 +200,7 @@ pip install -r requirements.txt
 ## 4️⃣ Ejecutar ETL
 
 ``` bash
-streanlit run main.py
+streamlit run main.py
 ```
 
 ------------------------------------------------------------------------
