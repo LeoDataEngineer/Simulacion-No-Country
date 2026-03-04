@@ -1,4 +1,4 @@
-# 📊 DATAMARK -- Plataforma de Automatización de Ventas e Inventarios.
+# 📊 DATAMARK - Plataforma de Automatización de Ventas e Inventarios.
 
 ## 🚀 Descripción del Proyecto
 
@@ -77,7 +77,7 @@ optimizado para análisis OLAP.
 
 Este modelo permite:
 
-✔ Análisis por cliente\
+✔ Análisis por cliente
 
 ✔ Análisis por producto\
 
