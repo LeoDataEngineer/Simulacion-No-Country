@@ -180,8 +180,7 @@ El proceso ETL actual realiza:
 ## 1️⃣ Clonar repositorio
 
 ``` bash
-git clone https://github.com/TU-USUARIO/TU-REPO.git
-cd Dashboard-Ventas
+git https://github.com/No-Country-simulation/-S02-26-Equipo-53-Data-Science.git
 ```
 
 ## 2️⃣ Crear entorno virtual
