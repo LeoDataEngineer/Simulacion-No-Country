@@ -200,7 +200,7 @@ pip install -r requirements.txt
 ## 4️⃣ Ejecutar ETL
 
 ``` bash
-python etl.py
+streanlit run main.py
 ```
 
 ------------------------------------------------------------------------
