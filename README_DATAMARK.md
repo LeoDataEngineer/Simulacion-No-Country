@@ -148,7 +148,7 @@ El proceso ETL actual realiza:
 
 ### 1️⃣ Extract
 
--   Lectura de archivos CSV creados por el usuario.
+-   Lectura de tablas SQL creados por el usuario.
 
 ### 2️⃣ Load (RAW)
 
@@ -205,7 +205,7 @@ venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-## 4️⃣ Ejecutar ETL
+## 4️⃣ Ejecutar la Aplicación
 
 ``` bash
 streamlit run main.py
@@ -217,7 +217,7 @@ streamlit run main.py
 
 Se recomienda usar un archivo `.env`:
 
-    DB_HOST=
+    DB_HOST= "Coloca aqui el host"
     DB_PORT=
     DB_NAME=
     DB_USER=
